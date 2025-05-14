@@ -3,7 +3,8 @@
 This repository contains coursework projects for learning **FPGA design and implementation** using **Intel Quartus Tool** and the **Cyclone IV** development board.
 
 ## Contents:
-- 21MVD0086_VL2021220105396_AST01.pdf : Basic implementations of Multiplexer, Comparators.
+- 21MVD0086_VL2021220105396_AST01.pdf               : Basic implementations of Multiplexer, Comparators using Dataflow modelling.
+- Digital Assignment 2 Shreyas S Bagi.pdf           : 16-bit ALU in structural modelling
 - Hexadecimal operations
 - Clock divider logic
 - Lift (elevator) controller design
