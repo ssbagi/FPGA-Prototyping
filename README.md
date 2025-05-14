@@ -11,7 +11,7 @@ This repository contains coursework projects for learning **FPGA design and impl
 
 ## Tools Used:
 - **Intel Quartus Prime** for design and synthesis
-- **Cyclone IV FPGA board** for hardware prototyping
+- **Cyclone IV FPGA board** for hardware prototyping : Altera DE2-115 FPGA Kit using Quartus II.
 - **Verilog** for coding digital logic
 
 
